@@ -12,7 +12,7 @@
 
 > 此二维码是一个示例，使用《Google Authenticator》或《宁盾令牌》扫描此二维码，可以激活令牌
 
-![Google](https://github.com/Ningdun/Activation-code-protocol/blob/master/Google.png)
+assets/激活码二维码.png
 
 > 二维码内容如下
 
